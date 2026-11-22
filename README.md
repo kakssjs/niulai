@@ -74,10 +74,3 @@ git fetch upstream
 ```
 
 拉取后先审查差异，再决定合并，避免覆盖本仓库后续修改。问题反馈与改进建议可提交到[本仓库 Issues](https://github.com/kakssjs/niulai/issues)。
-
-## 来源与许可
-
-- 原始项目：[liyupi/niulai-game](https://github.com/liyupi/niulai-game)，感谢原作者及贡献者。
-- 代码采用 [MIT License](LICENSE)，原始版权声明与许可证文件保持不变。
-- 依照原项目说明，角色与世界观取材自动画电影《牛来》，相关版权归原权利人所有，本项目为非商业粉丝致敬作品；代码的 MIT 许可不代表取得角色、商标或影视内容的授权。
-- 原项目提及的《拳皇》《街头霸王》《奥特曼格斗进化》等作品及商标归各自权利人所有，本项目与其无关联。
